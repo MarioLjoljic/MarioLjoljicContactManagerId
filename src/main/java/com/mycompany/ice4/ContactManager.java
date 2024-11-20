@@ -45,7 +45,7 @@ Returns the Contact record if found, null if not found.
         return null;
     }
 
- 
+ //comment
 
     /* Removes all contacts */ 
 
