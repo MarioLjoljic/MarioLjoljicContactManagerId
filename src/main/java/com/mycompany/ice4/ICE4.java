@@ -8,7 +8,6 @@ package com.mycompany.ice4;
  *
  * @author Mario
  */
-//comment
 public class ICE4 {
 
     public static void main(String[] args) {
